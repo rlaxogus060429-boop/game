@@ -1,2 +1,1 @@
-# game
-게임과제
+[게임영상](https://www.youtube.com/watch?v=NSffULGB68I)
